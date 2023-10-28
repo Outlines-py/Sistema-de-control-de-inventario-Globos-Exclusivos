@@ -1,0 +1,15 @@
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\GlobosExclusivos.csproj.AssemblyReference.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\GlobosExclusivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmMain.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmMainVendedor.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmProductosAdmin.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmusuarios.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\GlobosExclusivos.csproj.GenerateResource.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\GlobosExclusivos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.pdb

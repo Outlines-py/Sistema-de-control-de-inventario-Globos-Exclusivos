@@ -1,0 +1,59 @@
+C:\Users\PC\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\PC\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\PC\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.frmMain.resources
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.frmusuarios.resources
+C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.frmProductosAdmin.resources
+C:\Users\linda\Downloads\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\linda\Downloads\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\linda\Downloads\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.frmMain.resources
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.frmProductosAdmin.resources
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.frmusuarios.resources
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.pdb
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.frmMain.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.frmMainVendedor.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.frmProductosAdmin.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.frmusuarios.resources
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\erick\Downloads\Test Linda Ver.1\Test\Test\Test\obj\Debug\Test.pdb
+C:\Users\linda\Downloads\Test\Test\Test\obj\Debug\Test.frmMainVendedor.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmMain.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmMainVendedor.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmProductosAdmin.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.frmusuarios.resources
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\erick\Escritorio\Test btn\Test\Test\Test\obj\Debug\Test.pdb

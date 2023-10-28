@@ -1,0 +1,15 @@
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\bin\Release\Test.exe.config
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\bin\Release\Test.exe
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\bin\Release\Test.pdb
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\GlobosExclusivos.csproj.AssemblyReference.cache
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\GlobosExclusivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.Form1.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.frmMain.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.frmMainVendedor.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.frmProductosAdmin.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.frmusuarios.resources
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\GlobosExclusivos.csproj.GenerateResource.cache
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\GlobosExclusivos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.exe
+C:\Users\erick\Escritorio\Globos Exclusivos\Test\Test\Test\obj\Release\Test.pdb
